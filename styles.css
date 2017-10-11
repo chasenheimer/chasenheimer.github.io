@@ -3,22 +3,33 @@ body {
     background-color: rgb(220,220,220);
     color: rgb(0,0,0);
     font-family: "Open Sans", sans-serif;
-    text-align: center;
-    margin-left: 15%;
-    margin-right: 15%;
+    text-align: left;
 }
 
 #content {
     display: block;
-    margin-left: auto;
-    margin-right: auto
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+h2 {
+    font-size: 50%
+    color: rgb(35, 25, 70);
+}
+
+p {
+    font-size: 40%;
+    color: rgb(0, 0, 0);
 }
 
 header {
-	color: rgb(0,0,0);
+	color: rgb(50, 80, 135);
+    text-align: center;
 }
 
 footer {
 	font-style: italic;
 	font-size: 90%;
+    text-align: center;
+
 }
