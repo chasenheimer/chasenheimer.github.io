@@ -1,2 +1,2 @@
-# chaseabm.github.io
-Front page.
+# chasenheimer.github.io
+site index
