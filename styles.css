@@ -15,7 +15,6 @@ body {
     border-right-style: solid;
     border-right-width: 2px;
     padding-bottom: 100%;
-    text-decoration: none;
 }
 
 #content {
@@ -56,6 +55,8 @@ footer {
     position: fixed;
     bottom: 0;
     color: white;
+    left: 30%;
+    right: 30%;
 }
 
 #schoolprofile
@@ -68,7 +69,6 @@ footer {
     padding-right: 2px;
     margin-left: 3px;
     text-decoration: none;
-    right: 30%;
 }
 
 #personalprofile
@@ -80,6 +80,10 @@ footer {
     padding-left: 2px;
     padding-right: 2px;
     margin-right: 3px;
-    left: 30%;
+    text-decoration: none;
+}
+
+#nodec
+{
     text-decoration: none;
 }
