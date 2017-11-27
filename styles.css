@@ -1,15 +1,17 @@
 
 body {
     background-color: rgb(250,250,250);
-    color: black
+    color: black;
     font-family: 'Roboto', sans-serif;
     text-align: left;
-    margin-left: 25%;
-    margin-right: 25%;
-    border-left-color: rgb(5,5,5);
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-left: 5%;
+    padding-right: 5%;
+    border-left-color: rgb(220,220,220);
     border-left-style: solid;
     border-left-width: 1px;
-    border-right-color: rgb(240,240,240);
+    border-right-color: rgb(220,220,220);
     border-right-style: solid;
     border-right-width: 1px;
 }
@@ -31,7 +33,7 @@ h2 {
 
 p {
     font-size: 1.25em;
-    color: black
+    color: black;
 }
 
 header {
@@ -56,16 +58,18 @@ footer {
 
 #schoolprofile
 {
+    color: white;
     border: 2px solid black;
-    background-color: black;
+    background-color: grey;
     margin-left: 3px;
     text-decoration: none;
 }
 
 #personalprofile
 {
-    border: 2px solid black
-    background-color: black;
+    color: white;
+    border: 2px solid black;
+    background-color: grey;
     margin-right: 3px;
     text-decoration: none;
 }
